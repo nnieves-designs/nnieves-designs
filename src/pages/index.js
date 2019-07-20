@@ -4,8 +4,10 @@ import Hero from '../components/hero'
 
 const IndexPage = () => (
   <>
+  <>
     <ComingSoon/>
     <Hero/>
+  </>
   </>
 )
 
