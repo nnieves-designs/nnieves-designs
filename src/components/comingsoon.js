@@ -13,8 +13,6 @@ z-index: -1;
 `
 
 const Wrap = styled.div`
-font-family: 'Noto Sans';
-font-weight: 700;
 width: 100vw;
 height: 100vh;
 overflow: hidden;
